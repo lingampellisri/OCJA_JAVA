@@ -12,5 +12,7 @@ class Welcome {
             "This Is The First Program Geeks For Geeks..");
 
             System.out.prinltn("Heyyyy Man");
+
+            System.out.printl("Heyyy Man");
     }
 }
